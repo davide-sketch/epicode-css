@@ -1,0 +1,32 @@
+/* IMPOSTAZIONI GENERALI */
+body{
+    background-image: url(../img/sfondo.png);
+    font-family: 'Poppins',sans-serif;
+    font-weight: 400;
+    font-style: normal;
+     text-align: center
+}
+/* HEADER */
+header{
+    background-color:#0088AA;
+    padding: 1em;
+    text-align: center;
+}
+.box{ 
+    color: blue;
+ text-align: center
+}
+.box2{
+    color: #f6f8f8;
+}
+/* MAIN */
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
